@@ -38,6 +38,7 @@ work for this course.
 
 - Go to your terminal and navigate to your home director by typing `cd ~`
 - Create a `Development` folder by typing `mkdir Development` (if you're a mac user, this folder exists)
+
 - Navigate into this folder with `cd Development`
 - In here, create a `code` folder with `mkdir code`
 - Navigate into this folder with `cd code`
